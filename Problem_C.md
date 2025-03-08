@@ -14,35 +14,36 @@ Print a single integer — the length of the **longest contiguous subarray** who
 
 ## Examples
 
-**Input**
-5 4
+**Input**  
+5 4  
 4 1 2 1 5
 
-**Output**
+**Output**  
 3
 
-**Input**
-5 5
+**Input**  
+5 5  
 1 1 1 1 1
 
-**Output**
+**Output**  
 5
 
-**Input**
-3 1
+**Input**  
+3 1  
 2 3 4
 
-**Output**
+**Output**  
 0
 
-**Input**
-10 12
+**Input**  
+10 12  
 1 2 6 4 3 2 3 1 4 2
 
-**Output**
+**Output**  
 5
 
-**Note**
+**Note**  
+
 In the first example, possible subarrays with sum less than or equal to 4 are [4],[1],[2],[1],[1,2],[2,1],[1,2,1]. Among them, the longest size is 3.
 
 In the second example, sum of the entire array is 5. Hence, we can take the whole array.
