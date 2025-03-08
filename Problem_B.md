@@ -1,0 +1,22 @@
+# B. A Beautiful Sorted List
+
+**time limit per test:** 1 second  
+**memory limit per test:** 1024 megabytes  
+
+Alice and Bob are two friends. Alice has a list of length **N** in **non-decreasing** order, and Bob has a list of length **M**, also in **non-decreasing** order.  
+
+Now, they want to combine their lists into a single **non-decreasing** list of length **N+M**. However, they are not very good at algorithms, so they asked for your help.  
+
+Since you are a computer science student, your task is to write an efficient algorithm to merge the two given lists into one **non-decreasing** list. Solve the problem in **O(N+M)**.
+
+## Input
+- The first line contains an integer **N** (1 ≤ N ≤ 10⁶), denoting the length of Alice's list.  
+- The second line contains **N** space-separated integers representing Alice's list.  
+- The third line contains an integer **M** (1 ≤ M ≤ 10⁶), denoting the length of Bob's list.  
+- The fourth line contains **M** space-separated integers representing Bob's list.  
+
+All the numbers given in the input will fit within a **32-bit signed integer**.  
+It is guaranteed that the given lists will be in **non-decreasing** order.
+
+## Output
+You have to make a sorted list in **non-decreasing** order from the given lists and show the output.
