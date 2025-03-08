@@ -23,47 +23,47 @@ You have to make a sorted list in **non-decreasing** order from the given lists 
 
 ## Examples
 
-**Input**
-4
-1 3 5 7
-4
+**Input**  
+4  
+1 3 5 7  
+4  
 2 2 4 8
 
-**Output**
+**Output**  
 1 2 2 3 4 5 7 8 
 
-**Input**
-3
-2 10 12
-6
+**Input**  
+3  
+2 10 12  
+6  
 3 4 6 7 8 9
 
-**Output**
+**Output**  
 2 3 4 6 7 8 9 10 12
 
-**Input**
-5
-1 2 3 4 5
-2
+**Input**  
+5  
+1 2 3 4 5  
+2  
 10 12
 
-**Output**
+**Output**  
 1 2 3 4 5 10 12
 
-**Input**
-4
-1 2 12 13
-3
-10 15 18
+**Input**  
+4  
+1 2 12 13  
+3  
+10 15 18  
 
-**Output**
+**Output**  
 1 2 10 12 13 15 18
 
-**Input**
-8
-1 2 3 8 8 10 12 14
-9
+**Input**  
+8  
+1 2 3 8 8 10 12 14  
+9  
 1 1 4 5 6 8 13 15 16
 
-**Output**
+**Output**  
 1 1 1 2 3 4 5 6 8 8 8 10 12 13 14 15 16 
