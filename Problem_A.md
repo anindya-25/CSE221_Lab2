@@ -20,33 +20,33 @@ If multiple solutions exist, you may print any one of the valid answers.
 
 ## Examples
 
-**Input**
-4 10
+**Input**  
+4 10  
 1 3 5 7
 
-**Output**
+**Output**  
 2 4
 
-**Input**
-6 18
+**Input**  
+6 18  
 1 5 8 9 9 10
 
-**Output**
+**Output**  
 3 6
 
-**Input**
-4 7
+**Input**  
+4 7  
 2 4 6 8
 
-**Output**
+**Output**  
 -1
 
-**Input**
-4 10
+**Input**  
+4 10  
 1 5 6 8
 
-**Output**
+**Output**  
 -1
 
-**Note**
+**Note**  
 In the second sample input, 4 5 is also a valid output.
