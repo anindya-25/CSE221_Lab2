@@ -22,14 +22,14 @@ For each query **[x, y]**, print a single integer **P** denoting the number of e
 
 ## Example
 
-**Input**
-5 3
-10 20 20 45 79
-20 50
-5 45
+**Input**  
+5 3  
+10 20 20 45 79  
+20 50  
+5 45  
 1 100
 
-**Output**
-3
-4
+**Output**  
+3  
+4  
 5
